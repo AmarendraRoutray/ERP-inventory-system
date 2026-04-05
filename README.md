@@ -10,7 +10,7 @@ A robust Django REST Framework backend for managing multi-branch inventory and a
 
 ## Setup Instructions   
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AmarendraRoutray/ERP-inventory-system.git
 cd inventory_system
 
 python -m venv venv
